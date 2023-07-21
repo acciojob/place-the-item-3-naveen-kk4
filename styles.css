@@ -2,6 +2,6 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	flex-flow:row wrap;
-	justify-content:evenly;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
 }
